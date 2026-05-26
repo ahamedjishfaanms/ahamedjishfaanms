@@ -51,11 +51,6 @@ With a strong technical foundation in mechanical engineering, a suite of advance
 * **Onshore Fleet:** AD-59, AD-87, AD-60, AD-61, AD-63, AD-64, AD-32, AD-31, AD-34, AD-126, AD-111[cite: 1].
 * **Offshore/Island Fleet:** AD-131, AD-66, AD-79[cite: 1].
 
-### 🏢 MEP & Operations Infrastructure (GTech µLearn)
-> **Managed end-to-end technical documentation, engineering layouts, and asset deployment[cite: 1].**
-* Drafted complex HVAC system layouts via AutoCAD/Revit and validated thermal load profiles using HAP software[cite: 1].
-* Controlled project budgeting, forecasting, post-award BOQs, and contractor sequencing[cite: 1].
-
 ---
 
 ## 📈 GitHub Stats & Engagement
